@@ -1,6 +1,5 @@
 TODO
 ====
-1. Nahradit ! $ftp->cwd za zjisteni pres dir.
 3. Je tady chyba, kdy ve vyslednych datech jsou nektere adresare a k nim checksum.
 Na druhe strane je nejaky MS FTP server a opakovane to dela. Idealni neni to !
 $ftp->cwd, ktere pri neuspechu odloguje a znova priloguje.
@@ -10,3 +9,6 @@ Applied
 =======
 2. Uz ulozena data znova neukladat.
 OK [20140804] skim
+
+1. Nahradit ! $ftp->cwd za zjisteni pres dir.
+OK [20140807] skim
